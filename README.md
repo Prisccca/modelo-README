@@ -2,6 +2,8 @@
 # modelo-README
 Repositório com modelo de README.md para projetos no github
 
+site úril para edição de video: https://readme.so/pt
+
 # Titulo
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Prisccca/modelo-README/blob/main/LICENCE)
 
